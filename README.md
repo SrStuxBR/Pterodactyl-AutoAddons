@@ -23,7 +23,7 @@ If you have any problems with the script, ask for support in our official group 
 Just run the following command as root user.
 
 ```
-bash <(curl -s https://raw.githubusercontent.com/Ferks-FK/Pterodactyl-AutoAddons/main/install.sh)
+bash <(curl -s https://raw.githubusercontent.com/SrStuxBR/Pterodactyl-AutoAddons/main/install.sh)
 ```
 <h1 align="center">Attention!</h1>
 
